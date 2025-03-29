@@ -90,4 +90,4 @@ def split_nodes_delimiter(old_nodes, delimiter, text_type):
             return [node]
         return extractor[text_type](node)
 
-    return reduce(lambda x,y: x+y, map(split, old_nodes))
+    return reduce(lambda x,y: x+y, map(split, old_nodes), [])
