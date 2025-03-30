@@ -4,6 +4,8 @@
 
 > All that is gold does not glitter
 
+> "I am in fact a Hobbit in all but size."
+
 ## Reasons I like Tolkien
 
 * You can spend years studying the legendarium and still not understand its depths
