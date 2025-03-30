@@ -24,7 +24,7 @@ def textnodes_from_markdown(text):
     text_type_to_delimiters = {
         TextType.CODE: '`',
         TextType.BOLD: '\\*\\*',
-        TextType.ITALIC: '\\*',
+        TextType.ITALIC: '\\_',
         TextType.IMAGES: '![',
         TextType.LINKS: '[',
     }
